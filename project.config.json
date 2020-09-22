@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./dist",
+  "projectname": "taro-scratch",
+  "description": "taro 刮刮卡",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
